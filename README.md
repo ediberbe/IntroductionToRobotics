@@ -21,4 +21,8 @@ https://www.youtube.com/watch?v=06yYPAwsBjg
 
 **Components**: 5 LEDs, 1 button, 1 buzzer, resistors and wires (per logic)
 
-**General  description**: Building the traffic lights for a crosswalk. You will use 2 LEDs to represent the traffic lights for people (red and green)and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See the states it needs to go through. If anything is not clear, ask. Also,see the uploaded video (the intervals are different, but the states flow isthe same). It’s a traffic lights system for people and cars - don’t overthinkit.
+**General  description**: Building the traffic lights for a crosswalk. You will use 2 LEDs to represent the traffic lights for people (red and green)and 3 LEDs to represent the traffic lights for cars (red, yellow and green). See the states it needs to go through. If anything is not clear, ask. Also,see the uploaded video (the intervals are different, but the states flow isthe same). It’s a traffic lights system for people and cars - don’t overthink it.
+
+**Solution:**
+![WhatsApp Image 2021-11-04 at 2 49 37 PM](https://user-images.githubusercontent.com/60759315/140316640-a8abae61-3d24-4605-8acb-6803dff5a421.jpeg)
+https://youtu.be/n8lKOH2N9yY
