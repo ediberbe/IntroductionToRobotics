@@ -29,5 +29,7 @@ https://youtu.be/n8lKOH2N9yY
 **Components**: a buzzer and a 7-segment display (or a led bar / or 8 leds in a row that simulate a led bar)
 
 **Task**: should detect EMF (check body and near outlets.  DO NOT IN-SERT INTO OUTLET). It should print the value on the 7-segment display (or light the led bar) and should make a sound based on the intensity.
+
+**Solution:**
 ![1636628459160](https://user-images.githubusercontent.com/60759315/141287188-9761d1a1-453c-40aa-89b6-fd98ca2b75ef.jpg)
 https://youtu.be/yYH_rGTicU8 
