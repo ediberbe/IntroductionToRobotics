@@ -12,7 +12,7 @@ to the led.
 
 **Solution:**
 ![WhatsApp Image 2021-10-27 at 9 18 30 AM](https://user-images.githubusercontent.com/60759315/139013667-1509cace-229a-4d52-894d-f3c2f922ce4f.jpeg)
-https://www.youtube.com/watch?v=06yYPAwsBjg
+https://www.youtube.com/06yYPAwsBjg
 
 ## Homework 2 ✔️
 
@@ -33,3 +33,16 @@ https://youtu.be/n8lKOH2N9yY
 **Solution:**
 ![1636628459160](https://user-images.githubusercontent.com/60759315/141287188-9761d1a1-453c-40aa-89b6-fd98ca2b75ef.jpg)
 https://youtu.be/yYH_rGTicU8 
+
+## Homework 4 ✔️
+
+**Components**: a  joystick,  a  4  digit  7-segment  display,  a  74hc595  shiftregister
+
+**Task**: First  state:   you  can  use  a  joystick  axis  to  cycle  through  the  4digits; using the other axis does nothing.  A blinking decimal point showsthe current digit position.  When pressing the button (must use interruptfor  maximum  points!),  you  lock  in  on  the  selected  digit  and  enter  thesecond state.  In this state, the decimal point stays always on, no longerblinking and you can no longer use the axis to cycle through the 4 digits.Instead, using the other axis, you can increment on decrement the numberon the current digit.  Pressing the button again returns you to the previousstate.  For bonus, save the last value in eeprom and load it when startingarduino.  Also, keep in mind that when changing the number, you mustincrement it for each joystick movement - it should not work continuoslyincrement if you keep the joystick in one position.
+
+**Solution**: 
+![WhatsApp Image 2021-12-01 at 10 22 03 PM](https://user-images.githubusercontent.com/60759315/144308461-8387ffc2-31bd-4f5c-bd48-bd0a712d9d6e.jpeg)
+https://youtu.be/vmq76rrw_zk
+
+## Homework 5
+
