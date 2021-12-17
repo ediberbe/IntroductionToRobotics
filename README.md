@@ -46,9 +46,9 @@ https://youtu.be/vmq76rrw_zk
 
 ## Homework 5 - Matrix project ✔️
 
-**Task Requirements**: Creating a game. It must be fun and intuitive, and also remember that it is your game! Pick something that you like and have fun creating it.
+**Task Requirements**: Create a game. It must be fun and intuitive, and also remember that it is your game! Pick something that you like and have fun creating it.
 
-**Components**: 16 Segment Led Display, 8x8 Led Matrix, MAX7219 Driver, Joystick, 10k Potentiometer, 10uF Capacitor, 104pF Capacitor, Resistors and Wires.
+**Components**: 16 Segment Led Display, 8x8 Led Matrix, MAX7219 Driver, Joystick, 10k Potentiometer, Capacitors, Resistors and Wires.
 
 **Solution**:  
 ![WhatsApp Image 2021-12-17 at 10 27 49 AM](https://user-images.githubusercontent.com/60759315/146514879-99b5cee6-8047-43ab-837a-d9fba3205922.jpeg)
