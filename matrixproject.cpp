@@ -39,7 +39,7 @@ int menuMainCount = 4;
 String menuSettings[3] = {"Change name", "Set Difficulty", ""};
 int menuSettingsCount = 2;
 
-String menuAbout[4] = {"Snake", "Edi Berbescu", "https://github.com/ediberbe", ""};
+String menuAbout[4] = {"Snake", "Edi Berbescu", "https://github.com/ediberbe/IntroductionToRobotics"};
 int menuAboutCount = 3;
 
 //highscores
@@ -410,7 +410,7 @@ void loop() {
 
         if(yPosition>900) {
           Serial.println("Joystick Down");
-          if(menuSelection != menuAboutCount-1) menuSelection++;
+          if(menuSelection != menuAboutCount-2) menuSelection++;
         }
       }
 
