@@ -50,7 +50,7 @@ https://youtu.be/vmq76rrw_zk
 
 **Components**: 16 Segment Led Display, 8x8 Led Matrix, MAX7219 Driver, Joystick, 10k Potentiometer, 10uF Capacitor, 104pF Capacitor, Resistors and Wires.
 
-**Solution**:
-SNAKE
+**Solution**:  
+SNAKE GAME
 ![WhatsApp Image 2021-12-17 at 10 27 49 AM](https://user-images.githubusercontent.com/60759315/146514879-99b5cee6-8047-43ab-837a-d9fba3205922.jpeg)
 
