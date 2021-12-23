@@ -116,7 +116,7 @@ int bombBlinkState = 1;
 // buzzer
 bool isAudio = true;
 int buzzTimer;
-int buzzDuration = 100;
+int buzzDuration = 150;
 
 //================FUNC================
 
