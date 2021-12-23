@@ -264,7 +264,7 @@ void joystickMovement() {
 void updateFood() {
   matrix[xFood][yFood] = 1;
   if(snakePos[0][0] == xFood && snakePos[0][1] == yFood){
-    score=score+difficulty;
+    score=score+1+difficulty;
     
     snakeChanged = true;
 
