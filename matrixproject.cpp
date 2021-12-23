@@ -743,7 +743,7 @@ void loop() {
 
         if(difficulty == 0) moveInterval = 200;
         else if(difficulty == 1) moveInterval = 150;
-        else if(difficulty == 2) moveInterval = 100;
+        else if(difficulty == 2) moveInterval = 150;
       }
       SW_state_last = SW_state;
       break;
