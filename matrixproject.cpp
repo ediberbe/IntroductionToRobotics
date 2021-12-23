@@ -73,7 +73,7 @@ int SW_state_last = 1;
 LedControl lc = LedControl(dinPin, clockPin, loadPin, 1); //DIN, CLK, LOAD, No. DRIVER
 
 byte matrixBrightness = 2;
-byte moveInterval = 150;
+byte moveInterval = 200;
 unsigned long long lastMoved = 0;
 const byte matrixSize = 8;
 bool matrixChanged = true;
